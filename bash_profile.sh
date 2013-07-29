@@ -1,4 +1,4 @@
-source server.sh
-source functions.sh
-source prompt.sh
-source alias.sh
+source ~/.bash/server.sh
+source ~/.bash/functions.sh
+source ~/.bash/prompt.sh
+source ~/.bash/alias.sh
